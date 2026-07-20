@@ -1,5 +1,10 @@
 
-# 📂 PROJECT-EXPERIENCE
+# MY PORTFOLIO PRESENTATION AND PROJECT-EXPERIENCE
+
+## 📗PORTFOLIO PRESENTATION
+**เข้าดูผลงาน:** (https://github.com/tuba-04/PORTFOLIO-PRESENTATION)
+
+## 📂PROJECT-EXPERIENCE
 ### 1. 🛒 E-commerce Sales Analysis (UK Market)
 **เครื่องมือที่ใช้:** Jupyter Notebook (Python), CSV, Power BI
 
@@ -29,6 +34,6 @@
 **เครื่องมือที่ใช้:** Excel,Looker Studio
 
 **เข้าดูผลงาน:**(https://github.com/tuba-04/Customer-Satisfaction-Analytics)
----
+
 ## 📗PORTFOLIO PRESENTATION
 **เข้าดูผลงาน:** (https://github.com/tuba-04/PORTFOLIO-PRESENTATION)
