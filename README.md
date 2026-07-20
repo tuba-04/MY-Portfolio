@@ -36,4 +36,7 @@
 
 **เข้าดูผลงาน:**(https://github.com/tuba-04/Customer-Satisfaction-Analytics)
 
+## 📚 CERTIFICATIONS
+**เข้าดูผลงาน:** (https://github.com/tuba-04/CERTIFICATIONS)
+
 
