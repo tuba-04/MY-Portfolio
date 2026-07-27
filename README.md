@@ -12,7 +12,7 @@
 **เข้าดูผลงาน:**(https://github.com/tuba-04/Publication-Management-System-)
 
 ### 2. 🛒 E-commerce Sales Analysis (UK Market)
-**เครื่องมือที่ใช้:** Jupyter Notebook (Python), CSV, Power BI
+**เครื่องมือที่ใช้:** Google Colab (Python), CSV, Power BI
 
 **เข้าดูผลงาน:**(https://github.com/tuba-04/E-commerce-Sales-Analysis-UK-Market-)
 
